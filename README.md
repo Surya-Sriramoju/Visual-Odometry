@@ -10,14 +10,14 @@
 
 Feature Points             |  
 :-------------------------:|
-<img src="\Sift_Features.png" width="350" alt="Alt text" title="">  |  
+<img src="Sift_Features.png" width="500" alt="Alt text" title="">  |  
 
 ### 2. Feature Matching
 Feature Matching           | 
 :-------------------------:|
-<img src="Feature_Matching.png" width="350" alt="Alt text" title=""> |
+<img src="Feature_Matching.png" width="500" alt="Alt text" title=""> |
 
 ### 3. Trajectory
 Trajectory of the vehicle from all Views          | 
 :-------------------------:|
-<img src="Trajectory.png" width="350" alt="Alt text" title=""> |
+<img src="Trajectory.png" width="500" alt="Alt text" title=""> |
